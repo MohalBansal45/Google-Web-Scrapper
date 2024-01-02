@@ -1,0 +1,18 @@
+
+Step:1 - Install Python and selenium
+	> https://www.youtube.com/watch?v=vxS-Or0IS2A
+
+Step:2 - Install excel driver to create excel sheet
+        > Open Ternimal
+	> Run command -> pip install openpyxl
+
+Step:3 - Open this url in chrome
+	> https://www.google.com/localservices/prolist?g2lbs=AP8S6EPxjyBIpgtLpCbgNzs9FwH1LUrnJ5S_xIweRe7IUU6L5dZvZoR1Mt5N7yJ3Nfcl87JYNcu2y43edTXHW19Ka8mGGKR0SThSp2OPrYXQsmCTtlfcfu4j_zYp17BdiWknAZTbYbOi&hl=en-IN&gl=in&cs=1&ssta=1&oq=top%2010%20salons%20in%20chandigarh&src=2&sa=X&q=salon%20in%20ludhiana&ved=0CAAQ0cwJahgKEwjIgbe8n9uAAxUAAAAAHQAAAAAQpQE&scp=ChFnY2lkOmJlYXV0eV9zYWxvbhIAGgAqDkJlYXV0eSBQYXJsb3Vy&slp=MgBAAVIECAIgAIgBAJoBBgoCFxkQAQ%3D%3D
+	> Search any service in search box
+
+Step:4 - Run Script
+	> Copy URL from chrome
+	> Paste url in Script and press enter
+	> Enter sheet name and press enter
+
+Data scraping will start and sheet will be create automatically at the same location of your script
